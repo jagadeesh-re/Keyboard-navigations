@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript",
+  "name": "keyboard-navigations",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
+  "description": "React and TypeScript keyboard navigation starter project",
   "keywords": [
     "typescript",
     "react",
